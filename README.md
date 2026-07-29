@@ -22,7 +22,7 @@ Weight in kg, Height in meters
 
 **How to run:**
 ```bash
-python "bmi calculator.py"
+
 
 
 
