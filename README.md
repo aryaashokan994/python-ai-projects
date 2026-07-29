@@ -26,16 +26,3 @@ python "bmi calculator.py"
 
 
 
-## Project 2: Temperature Converter
-
-**What it does:** 
-Converts temperature between Celsius and Fahrenheit.
-
-**Python Concepts Learned:**
-- `input()` and `float()` for user input
-- `if / elif / else` for choice selection
-- Math formulas and f-strings
-
-**How to run:**
-```bash
-python "temperature_converter.py"
