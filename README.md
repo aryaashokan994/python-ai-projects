@@ -41,4 +41,22 @@ python "temperature converter.py"
 ```
 
 
+## Project 3: Student Performance Analyzer
+
+**What it does:**
+Takes marks for 5 subjects, calculates total, average, grade, and PASS/FAIL status.
+
+**Python Concepts Learned:**
+- `input()` and `float()` - For taking marks from user
+- `if / elif / else` - For grade calculation 
+- `f-string` - For formatted output
+- `:.2f` - To round average to 2 decimal places
+- Basic arithmetic - `total` and `average` calculation
+
+**How to run:**
+```bash
+python "Student Performance Analysis.py"
+
+
+
 
