@@ -55,8 +55,21 @@ Takes marks for 5 subjects, calculates total, average, grade, and PASS/FAIL stat
 
 **How to run:**
 ```bash
-python "Student Performance Analysis.py"
 
+## Project 4: To-Do List Task Tracker - Python
 
+**What it does:**  
+Takes tasks from user, stores them, lets you mark them complete, and shows pending tasks. Data saves to a file so it doesn't delete.
 
+**Python Concepts Learned:**  
+- `input()` - For taking task from user
+- `list` and `dict` - For storing multiple tasks with status
+- `while` loop - For continuous menu
+- `if / elif / else` - For choice selection
+- `enumerate()` - For numbering tasks
+- File Handling - To save and load tasks from `tasks.txt`
+
+**How to Run:**  
+```bash
+python todo_tracker.py
 
