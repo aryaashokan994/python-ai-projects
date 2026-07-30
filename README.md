@@ -56,20 +56,21 @@ Takes marks for 5 subjects, calculates total, average, grade, and PASS/FAIL stat
 **How to run:**
 ```bash
 
-## Project 4: To-Do List Task Tracker - Python
+## Project 4: Personal Expense Tracker
 
 **What it does:**  
-Takes tasks from user, stores them, lets you mark them complete, and shows pending tasks. Data saves to a file so it doesn't delete.
+Takes expenses from user with category and amount, stores them, and shows total spent and summary by category.
 
 **Python Concepts Learned:**  
-- `input()` - For taking task from user
-- `list` and `dict` - For storing multiple tasks with status
+- `input()` and `float()` - For taking expense details from user
+- `list` and `dict` - For storing multiple expenses
 - `while` loop - For continuous menu
-- `if / elif / else` - For choice selection
-- `enumerate()` - For numbering tasks
-- File Handling - To save and load tasks from `tasks.txt`
+- `if / elif / else` - For menu choice selection
+- `enumerate()` - For numbering expenses
+- `.2f` - To round amount to 2 decimal places
+- `get()` method - For summary by category
 
-**How to Run:**  
+**How to run:**  
 ```bash
-python todo_tracker.py
+python "expense_tracker.py"
 
