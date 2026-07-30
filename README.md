@@ -55,6 +55,9 @@ Takes marks for 5 subjects, calculates total, average, grade, and PASS/FAIL stat
 
 **How to run:**
 ```bash
+python "student performance analyzer.py"
+```
+
 
 ## Project 4: Personal Expense Tracker
 
